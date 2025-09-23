@@ -1,7 +1,7 @@
 /// <reference types="cypress"/> 
 
 // Bloco de testes, agrupa os casos de teste relacionados
-    describe('Comandos Básicos', () => { //nome da suíte de teste
+    describe('Comandos Básicos', () => { //nome da suíte de teste 
 
   // Caso de teste: deve acessar a página inicial
         it('Acessar uma URL', () => {
